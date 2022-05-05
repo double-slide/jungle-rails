@@ -1,10 +1,6 @@
 class CartsController < ApplicationController
 
   def show
-    puts "params: #{params}"
-    puts "cart: #{cart}"
-    puts "cart.length(): #{cart.length()}"
-    
   end
 
   def add_item
