@@ -1,17 +1,17 @@
 # Jungle
 
-A mini e-commerce application for selling plants. 
+A [Ruby-on-rails](https://rubyonrails.org/) based mini e-commerce application for selling plants.
 
 ## Dependencies
 
-- Rails 6.1 [Rails Guide](http://guides.rubyonrails.org/v6.1/)
+- Rails 6.1
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
 
 ## Product Views
-!["Home page"](https://github.com/double-slide/jungle-rails/blob/main/public/images/localhost_8080_maps%20(1).png?raw=true)
-!["Cart page"](https://github.com/GraceWXT/wiki-map/blob/main/public/images/localhost_8080_maps_2.png?raw=true)
+!["Home page"](https://github.com/double-slide/jungle-rails/blob/master/public/images/jungle_home_page.png?raw=true)
+!["Cart page"](https://github.com/double-slide/jungle-rails/blob/master/public/images/jungle_cart_page.png?raw=true)
 
 
 ## Project Goals
