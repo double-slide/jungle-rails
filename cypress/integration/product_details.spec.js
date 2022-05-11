@@ -12,6 +12,11 @@ describe("", () => {
     cy.get(".products article").should("have.length", 2);
   });
 
+  it("should click on the first product", () => {
+    cy.get("article")
+    .first()
+    .click()
+  });
   
 
 });
